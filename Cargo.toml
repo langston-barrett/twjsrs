@@ -2,7 +2,7 @@
 name = "twjsrs"
 description = "(De)serialize TiddlyWiki tiddlers to and from their JSON format."
 keywords = ["tiddlywiki", "tiddly-wiki", "json"]
-version = "0.0.0"
+version = "0.1.0"
 edition = "2021"
 authors = ["Langston Barrett <langston.barrett@gmail.com>"]
 license = "MIT"
